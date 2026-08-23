@@ -235,3 +235,13 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# 사이트 기본 정보
+title: dreamhack 공부 & 워게임 풀이 기록
+tagline: Web Security & Packet Analysis
+url: 'https://github.com/djwh0528-cloud/' # 본인 주소로 변경 (따옴표 필수)
+
+# 작성자 정보
+author: djwh0528
+timezone: Asia/Seoul
+lang: ko-KR
