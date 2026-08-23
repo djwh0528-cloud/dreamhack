@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "'https://djwh0528-cloud.github.io'"
+url: "https://djwh0528-cloud.github.io"
 
 github:
   username: djwh0528-cloud # change to your GitHub username
@@ -112,7 +112,7 @@ actions:
   # Display "Edit this post" action on each post page to encourage contributions.
   edit_post:
     enabled: false # set to true to display the "Edit this post" action.
-    url: "" # repository base URL, e.g. https://github.com/cotes2020/jekyll-theme-chirpy/edit/master
+    url: "https://github.com/djwh0528-cloud/dreamhack" # repository base URL, e.g. https://github.com/cotes2020/jekyll-theme-chirpy/edit/master
     # Use dynamic or static URL for the edit link.
     # If `static_url` is false, the post's path will be appended to the `url` above as the final edit link.
     # Set to true if the URL should remain unchanged, which means each post will share the same edit link.
