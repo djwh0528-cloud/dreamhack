@@ -1,6 +1,6 @@
 ---
 title: "Command_injection 기초"
-date: 2026-09.02
+date: 2026-09-02
 categories: [Security]
 tags: [Command injection]
 ---
